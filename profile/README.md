@@ -78,19 +78,6 @@ The goal is to contribute meaningful technical work while steadily raising the s
 
 ---
 
-## Principles
-
-Security is not about tools.  
-It is about understanding systems at their core.
-
-Every vulnerability exists for a reason.  
-Every exploit reveals a weakness in design.  
-Every solved challenge expands capability.
-
-> The strongest defense is built by those who understand how systems fail.
-
----
-
 ## Motto
 
 Break systems.  
