@@ -1,11 +1,17 @@
-# APARAYAJIT 🛡️
+<div align="center">
 
-### Cybersecurity • Capture-The-Flag • Offensive Security
+# APARAJAYIT 🛡️
 
-A private cybersecurity initiative focused on technical mastery, offensive security research, and high-level Capture-The-Flag competition.
+**Cybersecurity • Capture-The-Flag • Offensive Security**
 
-The name **Aparajayit** means *“unconquered.”*  
-It represents persistence, discipline, and the relentless pursuit of technical excellence.
+Rooted in **India 🇮🇳**  
+Focused on technical depth, offensive security research, and high-level CTF competition.
+
+</div>
+
+---
+
+> *Break systems. Understand them. Build them stronger.*
 
 ---
 
@@ -43,7 +49,7 @@ Every solved challenge strengthens our understanding of:
 - system architecture  
 - vulnerability discovery  
 - exploit development  
-- defensive security thinking
+- defensive security thinking  
 
 Progress is measured through **skill, consistency, and technical depth.**
 
@@ -51,7 +57,7 @@ Progress is measured through **skill, consistency, and technical depth.**
 
 ## Membership
 
-APARAJIT operates as a **private, application-based team**.
+APARAJAYIT operates as a **private, application-based team**.
 
 We look for individuals who demonstrate:
 
